@@ -1,8 +1,8 @@
-import Algorythms.bubble_sort as bubble
-import Algorythms.insertion_sort as insertion
-import Algorythms.merge_sort as merge
-import Algorythms.quick_sort as quick
-import Algorythms.selection_sort as selection
+import algorythms.bubble_sort as bubble
+import algorythms.insertion_sort as insertion
+import algorythms.merge_sort as merge
+import algorythms.quick_sort as quick
+import algorythms.selection_sort as selection
 
 
 if __name__ == "__main__":
