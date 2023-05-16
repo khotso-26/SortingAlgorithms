@@ -7,7 +7,7 @@ import algorythms.selection_sort as selection
 
 if __name__ == "__main__":
 
-    data = [ 5, -2, 23, 7, 87, -42, 509 ]
+    data = [70,1,42,563,3,-2,11,43]
     size = len(data)
 
     bubbleSorting = bubble.bubbleSort(data)
